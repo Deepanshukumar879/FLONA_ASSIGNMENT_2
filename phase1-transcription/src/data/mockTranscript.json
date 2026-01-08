@@ -1,0 +1,25 @@
+{
+  "a_roll_duration_sec": 62,
+  "segments": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 4.3,
+      "text": "Aaj hum baat karenge food quality ke baare mein"
+    },
+    {
+      "start_sec": 4.3,
+      "end_sec": 9.1,
+      "text": "Jo hum roz street food khate hain usme hygiene ka issue hota hai"
+    },
+    {
+      "start_sec": 9.1,
+      "end_sec": 14.8,
+      "text": "Khaana khula rehta hai aur dhool mitti lag sakti hai"
+    },
+    {
+      "start_sec": 14.8,
+      "end_sec": 20.5,
+      "text": "Ghar ka ya clean jagah ka food zyada safe hota hai"
+    }
+  ]
+}
